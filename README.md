@@ -1,6 +1,6 @@
 <div align = center>
 
-# Earape-Mod
+# Infintinode2-Music-Mod
 
 ![Mod Icon](icon.png)
 
