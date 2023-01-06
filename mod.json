@@ -1,6 +1,7 @@
 {
-  "name": "Example Mod",
-  "author": "Anuke",
-  "description": "A simple mod. Demonstrates how to make[accent] new ores[] and[orange] machines.[]",
-  "version": 1.0
+  "name": "Infintinode2 MusicMod",
+  "author": "Secondyou",
+  "description": "A Music Mod That Change To Infintinode 2 Soundtrack Song",
+  "mingamversion": 136
+  "version": 0.1
 }
