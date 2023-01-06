@@ -1,10 +1,19 @@
-# ExampleMod
-An example of a simple mod for Mindustry.
+<div align = center>
 
-## Importing
+# Earape-Mod
 
-Simply download this repository as a zip, then import it through the `Mods` dialog in Mindustry. Or, unzip this repo inside Mindustry's `mods/` folder.
+![Mod Icon](icon.png)
 
-## Contributing
+</div>
 
-Feel free to submit more example content to this repository. For example sprites, I recommend re-coloring existing blocks and using the existing Mindustry palette.
+## Modding ToDo List:
+
+- [x] Create a new Mindustry Mod Project
+- [ ] Boss Music Changed
+- [ ] Menu Music Changed
+- [ ] In Game Music Changed
+- [ ] Editor Changed
+- [ ] Leftover Music Changed
+- [ ] Make a beautiful [mod icon](icon.png) to replace the placeholder.
+- [ ] Push a commit with any message containing `[release]` to generate a release draft on [GitHub](https://github.com/ssaagamemer/Earape-Mod/releases). 
+- [ ] Full Release
