@@ -3,17 +3,7 @@ name: "Infintinode2-Music-Mod"
 author: "Secondyou"
 subtitle: "A Music Mod"
 description: "A Mod That Change All Music In Game To Infintinode 2 Soundtrack Song"
-version: "0.1alphatest-1"
-minGameVersion: "136"
-hidden: truedisplayName: "Infintinode 2 Music Mod"
-
-name: "Infintinode2-Music-Mod"
-
-author: "Secondyou"
-
-subtitle: "A Music Mod"
-
-description: "A Mod That Change All Music In Game To Infintinode 2 Soundtrack Song"
-
 version: "Test-0.1P2"
-
+minGameVersion: "136"
+hidden: true
+dependencies: []
